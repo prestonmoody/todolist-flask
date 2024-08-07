@@ -1,6 +1,6 @@
 # To-Do List API
 
-## Project Purpose
+## Project Purpose1
 
 The purpose of this project is to provide a RESTful API for a to-do list application. This API allows users to manage their to-do tasks by providing functionalities to add, retrieve, update, and delete tasks. The API is built using Flask and the data is stored in a MySQL database.
 
